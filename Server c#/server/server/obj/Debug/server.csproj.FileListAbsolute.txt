@@ -1,0 +1,9 @@
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\bin\Debug\server.exe.config
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\bin\Debug\server.exe
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\bin\Debug\server.pdb
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.Form1.resources
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.exe
+C:\Users\mYam\Documents\SOCKET20180912\Server c#\server\server\obj\Debug\server.pdb

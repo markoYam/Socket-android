@@ -1,0 +1,15 @@
+// cambiar la contraseña del sistema...
+// se debe ejecutar como adiministrador
+
+  DirectoryEntry AD = new DirectoryEntry("WinNT://" + Environment.MachineName + ",computer");
+        DirectoryEntry grp;
+        grp = AD.Children.Find("test", "user");
+        if (grp != null)
+        {
+            grp.Invoke("SetPassword", new object[] { "test" });
+        }
+        grp.CommitChanges();
+
+//bloquear pantalla de windows
+
+Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
